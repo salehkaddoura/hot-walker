@@ -1,0 +1,13 @@
+{
+  "punishments": [
+    "dish duty",
+    "garbage man",
+    "drink runner",
+    "snack attack"
+  ],
+  "rewards": [
+    "lunch",
+    "randomThingy",
+    "moarThings"
+  ]
+}
